@@ -1,0 +1,13 @@
+Natural Language Processing (NLP) is a well-known technique of artificial intelligence to extract the elements of concern from the raw plain text information. 
+NLP is more than just understanding the words; it's like using mathematical calculations to find the right word that fits well into our discussion.
+
+NLP has also become more focused on information extraction and generation in the last decade due to the vast amounts of information scattered across the Internet. 
+One of the use cases of NLP is word/sentence embedding, and many tools/models available are pre-trained on a large volume of text, such as the Natural Language Toolkit (NLTK). 
+Other technologies used in NLP are machine learning and deep learning.
+
+Natural language processing (NLP) portrays a vital role in the research of emerging technologies. 
+It includes sentiment analysis, speech recognition, text classification, machine translation, question answering, among others. 
+A few of the most common use cases are chatbots, spam detection, clinical documentation (healthcare), etc.
+
+A research paper from Carnegie Mellon University and Google Brain proposed a novel neural architecture known as Transformer-XL that enables learning dependency beyond a fixed-length without disrupting temporal coherence. 
+According to the researchers, TransformerXL learns dependency 80% longer than RNNs and 450% longer than vanilla Transformers, achieves better performance on both short and long sequences and is up to 1,800+ times faster than vanilla Transformers during evaluation.
