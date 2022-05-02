@@ -1,0 +1,21 @@
+competitor_list = [
+"https://www.statefarm.com/",
+"https://www.berkshirehathaway.com/",
+"https://www.progressive.com/",
+"https://www.libertymutual.com/",
+"https://www.allstate.com/",
+"https://www.travelers.com/",
+"https://www.usaa.com/ ",
+"https://www.farmers.com/",
+"https://www.nationwide.com",
+"https://www.aig.com/business",
+"https://www.zurich.com",
+"https://www.thehartford.com",
+"https://www.assurant.com",
+"https://www.erieinsurance.com",
+"https://www.fairfax.ca/",
+"https://www.berkley.com",
+"https://www.markel.com/",
+"https://www.axa.com/",
+"https://www.amfam.com"
+]
