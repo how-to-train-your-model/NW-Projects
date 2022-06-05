@@ -141,6 +141,15 @@ SELECT * FROM cypher('sf_graph',
 					  limit 10; 
 -- ORDER BY cast(data->>'v.attributes.numberEmployees' as integer)  desc					 
 					 
-					
+SELECT CURRENT_DATE, random() as Rand_num, table_schema, table_name 
+            FROM information_schema.tables 
+            WHERE table_schema not in ('pg_catalog', 'information_schema')
+            ORDER BY table_schema,table_name;	
+					 
+SELECT * FROM cypher('sf_graph', $$ MATCH (a:Company) 
+					 RETURN a.name, label(a), id(a) $$) as (NodeName agtype, NodeLabel agtype, NodeID agtype);
+					 
+					 
+ SELECT drop_graph('test_graph', true);
 					 
 					 
