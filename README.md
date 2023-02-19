@@ -1,8 +1,7 @@
 # NW-data-science-portfolio
 
 - 👋 Hi
-- 👀 I’m data science practitioner
-- 📖 I’m currently learning how to train ML and NLP model
+- 🙏🏼 I’m data science practitioner
 - ⛳️ I’m looking to collaborate on areas involving data science techniques
 - 📫 Feel free to reach out!
 
